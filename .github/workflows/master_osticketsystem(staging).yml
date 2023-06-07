@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'osticketsystem'
           slot-name: 'Staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8AD9F353C9804116AF783A15DA128CA0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4EA0920C8B84F5992BAEDF0671ECB20 }}
           package: .
